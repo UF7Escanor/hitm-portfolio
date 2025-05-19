@@ -1,0 +1,42 @@
+.container{
+   
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color:#16a085;
+    width: 100vw;
+    height: 30px;
+}
+
+.header-gap{
+    margin-top: 50px;
+}
+
+body{
+    scroll-behavior: smooth;
+
+
+}
+.about{
+    text-align: center;
+    position: relative;
+    background-color: rgb(99, 172, 142);
+    border-style: groove;
+}
+.Skills{
+    text-align: center;
+    position: relative;
+    background-color: rgb(99, 172, 142);
+    border-style: groove;
+
+}
+.Project{
+     text-align: center;
+    position: relative;
+    background-color: rgb(99, 172, 142);;
+    border-style: groove;
+
+}
