@@ -1,5 +1,5 @@
 .container{
-   
+   background-color: #16a085;
 }
 
 .navbar{
@@ -26,18 +26,35 @@ body{
     position: relative;
     background-color: rgb(99, 172, 142);
     border-style: groove;
+
 }
 .Skills{
     text-align: center;
     position: relative;
-    background-color: rgb(99, 172, 142);
+    background-color: rgb(170, 218, 82);
     border-style: groove;
-
+    
 }
 .Project{
      text-align: center;
     position: relative;
-    background-color: rgb(99, 172, 142);;
+    background-color: rgb(104, 78, 197);
+    border-style: groove;
+    
+
+}
+.ram{
+     text-align: center;
+    position: relative;
+    background-color: rgb(99, 172, 142);
+    border-style: groove;
+
+    
+}
+.hari{
+     text-align: center;
+    position: relative;
+    background-color: rgb(99, 172, 142);
     border-style: groove;
 
 }
